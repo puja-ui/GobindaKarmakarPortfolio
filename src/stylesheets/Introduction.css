@@ -25,9 +25,6 @@ body {
 .containerP{
   display: flex;
 }
-/* #elements{
-  justify-content: space-between;
-} */
 
 #navlist a {
   float: left;
@@ -68,12 +65,10 @@ body {
 }
 
 #shouldHideWhenScrolled1 {
-  /* font-size: 16px; */
   display: block;
   transition: all 0.4s ;
 }
 #shouldHideWhenScrolled2 {
-  /* font-size: 16px; */
   display: block;
   transition: all 0.4s ;
 }

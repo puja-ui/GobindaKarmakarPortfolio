@@ -1,6 +1,3 @@
-// import { useState } from 'react'
-// import '../../stylesheets/areaOfResearch.css'
-
 
 const AreaOfResearch = () => {
 
